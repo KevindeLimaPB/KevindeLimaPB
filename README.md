@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋, I'am Kevin  
 
-<!--
-**KevindeLimaPB/KevindeLimaPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=KevindeLimaPB&show_icons=true&include_all_commits=true&theme=default_repocard" width="48%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KevindeLimaPB&layout=donut&hide_title=true&langs_count=6&theme=default_repocard" width="38%" />
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+
+![Snake animation](https://github.com/KevindeLimaPB/KevindeLimaPB/blob/output/github-contribution-grid-snake.svg)
