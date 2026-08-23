@@ -1,9 +1,9 @@
 ## Hi 👋, I'am Kevin  
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=KevindeLimaPB&show_icons=true&include_all_commits=true&theme=default_repocard" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KevindeLimaPB&show_icons=true&include_all_commits=true&theme=default_repocard" width="54%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KevindeLimaPB&layout=donut&hide_title=true&langs_count=6&theme=default_repocard" width="38%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KevindeLimaPB&layout=donut&hide_title=true&langs_count=6&theme=default_repocard" width="43%" />
 </p>
 
 <p>
