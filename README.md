@@ -18,4 +18,8 @@
 
 ## 
 
-![Snake animation](https://github.com/KevindeLimaPB/KevindeLimaPB/blob/output/github-contribution-grid-snake.svg)
+<img
+  alt="GitHub Snake"
+  src="https://raw.githubusercontent.com/KevindeLimaPB/KevindeLimaPB/output/github-contribution-grid-snake.svg"
+/>
+
